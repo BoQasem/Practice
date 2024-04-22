@@ -1,1 +1,1 @@
-cout << "mohmed2 " << endl;
+cout << "i am mohmed " << endl;
