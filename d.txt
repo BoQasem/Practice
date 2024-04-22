@@ -1,1 +1,2 @@
 cout << "d" << endl;
+cout << "d2" << endl;
