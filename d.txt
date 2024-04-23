@@ -1,3 +1,1 @@
-cout << "d" << endl;
-cout << "d2" << endl;
-cout << "d3" << endl;
+cout << "I'm mohmmedx73" << endl;
